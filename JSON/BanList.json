@@ -1,0 +1,14 @@
+[{
+	"username": "Prince of Peace",
+	"banDate": "02/01/2025 12:00"
+	"isPermanent": true,
+	"banReason": "Very questionable activity towards minors.",
+	"unbanDate": "02/01/2099 12:00"
+},
+{
+	"username": "Lumpasorus",
+	"banDate": "02/01/2025 12:00"
+	"isPermanent": false,
+	"banReason": "Testing",
+	"unbanDate": "03/07/2025 12:00"
+}]
