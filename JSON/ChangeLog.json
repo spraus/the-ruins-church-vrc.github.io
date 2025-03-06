@@ -1,7 +1,7 @@
 {
 	"options": {
-		"name": "Prayer Requests",
-		"lastUpdate": "02/01/2025",
+		"name": "Change Log",
+		"lastUpdate": "03/6/2025",
 		"showDate": true,
 		"showText": false,
 		"showHeader": true,
@@ -15,49 +15,49 @@
 	},
 	"arrVal": [
 		{
-			"timestamp": "2/26/2025 19:23 EST",
+			"timestamp": "3/2/2025 01:15 EST",
 			"user": "Lumpasorus",
-			"displayStr": "The Ruins Church - Beta_v0․3․3 - 20250225\n
-Initial release to community labs... Several bugs found and reported."
-		},
-		{
-			"timestamp": "2/26/2025 19:32 EST",
-			"user": "Lumpasorus",
-			"displayStr": "The Ruins Church - Beta_v0․3․4 - 20250226\n
-Performance improvements overall, VR Stability increases (roughly 20FPS+), Added colliders on pipe organ, Added world ban script that will teleport any user to an invisible jailcell with a message that they are banned... It also sets their respawn location there so there is no escape."
+			"displayStr": "The Ruins Church - Beta_v0.5.0 - 20250302
+Bug Fixes:
+Many performance improvements with less stutter due to scripts
+Church lighting improvement
+Tree visuals improved
+
+New Features:
+Completely new basement to church
+Tons of toys in the church. (Note these toys will likely be removed from the church when a new home is made for them)
+Audio zones installed allowing for basement convos to not be heard in the main church, or study room and so on. These zones are also in most popular areas including both islands, the ruins, and the woods
+Pulpit & Lectern boost voice of presenter
+New low latency streaming screens installed in study and basement
+Even more that I cannot remember..."
 		},
 		{
 			"timestamp": "2/27/2025 20:55 EST",
 			"user": "Lumpasorus",
-			"displayStr": "The Ruins Church - Beta_v0․4.0 - 20250227\n
-Bug Fixes:\n
-FPS Improvements map wide\n
-Church  Lighting Improvements\n
-Map wide tree/bush color improvements\n
-Improvements to some handling scripts that caused CPU spikes\n
-\n
-New Features:\n
-Ability to open/close doors... performance improvement when closed\n
-Added new clock asset to back left church room, shows your local time\n
-Thanks to Pastor David - Added swimmable water with underwater shaders and custom controls\n
+			"displayStr": "The Ruins Church - Beta_v0.4.0 - 20250227
+Bug Fixes:
+FPS Improvements map wide
+Church  Lighting Improvements
+Map wide tree/bush color improvements
+Improvements to some handling scripts that caused CPU spikes
+
+New Features:
+Ability to open/close doors... performance improvement when closed
+Added new clock asset to back left church room, shows your local time
+Thanks to Pastor David - Added swimmable water with underwater shaders and custom controls
 Custom texture/shader added to windows on Android/Oculus so you cannot see out improving FPS and QoL"
 		},
 		{
-			"timestamp": "3/2/2025 01:15 EST",
+			"timestamp": "2/26/2025 19:32 EST",
 			"user": "Lumpasorus",
-			"displayStr": "The Ruins Church - Beta_v0․5.0 - 20250302\n
-Bug Fixes:\n
-Many performance improvements with less stutter due to scripts\n
-Church lighting improvement\n
-Tree visuals improved\n
-\n
-New Features:\n
-Completely new basement to church\n
-Tons of toys in the church. (Note these toys will likely be removed from the church when a new home is made for them)\n
-Audio zones installed allowing for basement convos to not be heard in the main church, or study room and so on. These zones are also in most popular areas including both islands, the ruins, and the woods\n
-Pulpit & Lectern boost voice of presenter\n
-New low latency streaming screens installed in study and basement\n
-Even more that I cannot remember..."
+			"displayStr": "The Ruins Church - Beta_v0.3.4 - 20250226
+Performance improvements overall, VR Stability increases (roughly 20FPS+), Added colliders on pipe organ, Added world ban script that will teleport any user to an invisible jailcell with a message that they are banned... It also sets their respawn location there so there is no escape."
+		},
+		{
+			"timestamp": "2/26/2025 19:23 EST",
+			"user": "Lumpasorus",
+			"displayStr": "The Ruins Church - Beta_v0.3.3 - 20250225
+Initial release to community labs... Several bugs found and reported."
 		}
 	]
 }
