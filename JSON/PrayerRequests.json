@@ -1,0 +1,93 @@
+{
+	"options": {
+		"name": "Prayer Requests",
+		"lastUpdate": "02/01/2025",
+		"showDate": true,
+		"showText": false,
+		"showHeader": true,
+		"showIndividualHeader": true,
+		"showArray": true
+	},
+	"strVal": {
+		"timestamp": "2/1/2025 15:10 EST",
+		"user": "Lumpasorus",
+		"displayStr": "Hello World!!!!"
+	},
+	"arrVal": [
+		{
+			"timestamp": "2/1/2025 15:21 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "Hello again!!!"
+		},
+		{
+			"timestamp": "2/1/2025 15:22 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer 3"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		},
+		{
+			"timestamp": "2/1/2025 15:23 EST",
+			"user": "Lumpasorus2",
+			"displayStr": "prayer4"
+		}
+	]
+}
