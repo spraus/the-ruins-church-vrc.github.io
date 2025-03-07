@@ -5,21 +5,21 @@
 			"banDate": "02/01/2025 12:00",
 			"isPermanent": true,
 			"banReason": "Very questionable activity towards minors.",
-			"unbanDate": "02/01/2099 12:00"
+			"unbanDate": "02/01/2099 12:00:00"
 		},
 		{
 			"username": "Saint Peter",
-			"banDate": "02/01/2025 12:00",
+			"banDate": "02/01/2025 12:00:00",
 			"isPermanent": true,
 			"banReason": "Prince of Peace: Very questionable activity towards minors.",
-			"unbanDate": "02/01/2099 12:00"
+			"unbanDate": "02/01/2099 12:00:00"
 		},
 		{
 			"username": "Lumpasorus",
-			"banDate": "02/01/2025 12:00",
+			"banDate": "02/01/2025 12:00:00",
 			"isPermanent": false,
 			"banReason": "Testing",
-			"unbanDate": "03/07/2025 12:00"
+			"unbanDate": "03/07/2025 12:00:00"
 		}
 	]
 }
