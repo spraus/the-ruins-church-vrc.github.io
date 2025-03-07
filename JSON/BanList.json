@@ -22,7 +22,7 @@
 			"unbanDate": "03/07/2025 12:00:00"
 		},
 		{
-			"username": "Local Player",
+			"username": "[1] Local Player",
 			"banDate": "02/01/2025 12:00:00",
 			"isPermanent": false,
 			"banReason": "Testing Unity",
