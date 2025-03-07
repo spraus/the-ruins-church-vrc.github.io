@@ -15,6 +15,18 @@
 	},
 	"arrVal": [
 		{
+			"timestamp": "3/7/2025 10:22 EST",
+			"user": "Lumpasorus",
+			"displayStr": "The Ruins Church - Beta_v0.5.4 - 20250307
+Bug Fixes:
+Several Performance Improvements
+
+New Features:
+Addition of networked content including changelog, upcoming events, and more to come.
+Additional low latency streaming screen installed in main church.
+Updated ban system."
+		},
+		{
 			"timestamp": "3/2/2025 01:15 EST",
 			"user": "Lumpasorus",
 			"displayStr": "The Ruins Church - Beta_v0.5.0 - 20250302
