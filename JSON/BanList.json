@@ -6,6 +6,13 @@
 	"unbanDate": "02/01/2099 12:00"
 },
 {
+	"username": "Saint Peter",
+	"banDate": "02/01/2025 12:00"
+	"isPermanent": true,
+	"banReason": "Prince of Peace: Very questionable activity towards minors.",
+	"unbanDate": "02/01/2099 12:00"
+},
+{
 	"username": "Lumpasorus",
 	"banDate": "02/01/2025 12:00"
 	"isPermanent": false,
