@@ -2,6 +2,7 @@
 	"banList": [
 		{
 			"username": "Prince of Peace",
+			"adminUser": "Lumpasorus",
 			"banDate": "02/01/2025 12:00",
 			"isPermanent": true,
 			"banReason": "Very questionable activity towards minors.",
@@ -9,6 +10,7 @@
 		},
 		{
 			"username": "Saint Peter",
+			"adminUser": "Lumpasorus",
 			"banDate": "02/01/2025 12:00:00",
 			"isPermanent": true,
 			"banReason": "Prince of Peace: Very questionable activity towards minors.",
@@ -16,6 +18,7 @@
 		},
 		{
 			"username": "Lumpasorus",
+			"adminUser": "Lumpasorus",
 			"banDate": "02/01/2025 12:00:00",
 			"isPermanent": false,
 			"banReason": "Testing",
@@ -23,6 +26,7 @@
 		},
 		{
 			"username": "[1] Local Player",
+			"adminUser": "Lumpasorus",
 			"banDate": "02/01/2025 12:00:00",
 			"isPermanent": false,
 			"banReason": "Testing Unity",
