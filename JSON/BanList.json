@@ -20,6 +20,13 @@
 			"isPermanent": false,
 			"banReason": "Testing",
 			"unbanDate": "03/07/2025 12:00:00"
+		},
+		{
+			"username": "",
+			"banDate": "02/01/2025 12:00:00",
+			"isPermanent": false,
+			"banReason": "Testing Unity",
+			"unbanDate": "03/08/2025 12:00:00"
 		}
 	]
 }
