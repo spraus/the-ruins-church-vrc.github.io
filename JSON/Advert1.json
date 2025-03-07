@@ -1,0 +1,17 @@
+{
+	"images" : [
+	{
+		"imageURL": "https://spraus.github.io/the-ruins-church-vrc.github.io/Images/Discord_Link.png",
+		"imageWidth": 1920,
+		"imageHeight": 1080,
+		"imageSubtitle": "",
+		"imageShowSubtitle": false
+	}, {
+		"imageURL": "https://spraus.github.io/the-ruins-church-vrc.github.io/Images/Discord_Link.png",
+		"imageWidth": 1920,
+		"imageHeight": 1080,
+		"imageSubtitle": "It's Moved!",
+		"imageShowSubtitle": true
+	}
+	]
+}
