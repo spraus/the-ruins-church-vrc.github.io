@@ -1,0 +1,23 @@
+{
+	"options": {
+		"name": "Upcoming Events",
+		"lastUpdate": "03/07/2025",
+		"showDate": true,
+		"showText": false,
+		"showHeader": true,
+		"showIndividualHeader": true,
+		"showArray": true
+	},
+	"strVal": {
+		"timestamp": "2/1/2025 15:10 EST",
+		"user": "Lumpasorus",
+		"displayStr": "Hello World!!!!"
+	},
+	"arrVal": [
+		{
+			"timestamp": "03/08/2025 9:30pm EST",
+			"user": "Divine Ruins",
+			"displayStr": "Join us on Discord as we continue through The Hobbit series with \"The Hobbit: The Desolation of Smaug\"!"
+		}
+	]
+}
